@@ -3,7 +3,7 @@ package com.pluralsight.fruit;
 public class Pear implements IFruit {
     @Override
     public String getName() {
-        return null;
+        return "Pear";
     }
 
     @Override
