@@ -14,4 +14,13 @@ public class Banana implements IFruit {
 
         return ROLL_MULTIPLIER;
     }
+
+
+    public void garbage()
+    {
+        int x=1;
+
+        int y = 2;
+    }
+
 }
