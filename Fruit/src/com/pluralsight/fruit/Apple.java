@@ -12,6 +12,7 @@ public class Apple implements IFruit {
         return NAME;
     }
 
+
     @Override
     public int getRollMultiplier() {
 
